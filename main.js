@@ -1,14 +1,12 @@
 const skills = [
-  ['HTML 5', 99],
-  ['CSS - Bootstrap - Tailwind', 80],
+  ['HTML 5 - CSS - Bootstrap - Tailwind', 90],
   ['JavaScript', 85],
-  ['ReactJs - NextJs', 70],
-  ['NodeJs - ExpressJs', 75],
-  ['MsSQL - MySQL', 80],
+  ['ReactJs - NextJs', 75],
+  ['NodeJs - ExpressJs', 70],
+  ['MsSQL - MySQL', 85],
   ['MongoDB - Mongoose', 80],
   ['.NET - C# - Java', 90],
   ['Python', 60],
-  ['English', 65]
 ];
 
 const projects = [
